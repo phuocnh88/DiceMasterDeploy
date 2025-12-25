@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "728612013590",
+    "project_id": "idlestickmanhero",
+    "storage_bucket": "idlestickmanhero.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:728612013590:android:404a433359a12835d75737",
+        "android_client_info": {
+          "package_name": "com.doubllefun.idlestickman.hero"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDeOU3u_aR1Hac9Kw4Fh_HyJrzL-rMC4bI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
